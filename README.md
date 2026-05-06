@@ -36,7 +36,6 @@ A comprehensive Python-based application for managing student records and genera
 
 ## Project Structure
 
-\\\
 Student_Management_System/
 ├── main.py              # Main entrypoint for GUI application
 ├── gui.py               # Tkinter graphical interface
@@ -45,7 +44,7 @@ Student_Management_System/
 ├── reports.py           # Report generation functionality
 ├── students.db          # Local SQLite data file (created on first run)
 └── README.md           # Project documentation
-\\\
+
 
 ## Installation and Usage
 
@@ -154,5 +153,5 @@ This system provides a simple yet effective way to manage student records in edu
 ---
 
 **Version**: 1.0
-**Created**: April 2026
+**Created**: May 2026
 **License**: Open Source
