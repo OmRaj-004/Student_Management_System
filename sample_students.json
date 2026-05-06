@@ -1,0 +1,32 @@
+{
+    "101": {
+        "roll_no": "101",
+        "name": "Rahul Kumar",
+        "marks": 85.5,
+        "attendance": 92.0
+    },
+    "102": {
+        "roll_no": "102",
+        "name": "Priya Singh",
+        "marks": 92.0,
+        "attendance": 95.0
+    },
+    "103": {
+        "roll_no": "103",
+        "name": "Amit Patel",
+        "marks": 78.0,
+        "attendance": 88.0
+    },
+    "104": {
+        "roll_no": "104",
+        "name": "Neha Sharma",
+        "marks": 88.5,
+        "attendance": 90.0
+    },
+    "105": {
+        "roll_no": "105",
+        "name": "Vikram Desai",
+        "marks": 72.0,
+        "attendance": 80.0
+    }
+}
