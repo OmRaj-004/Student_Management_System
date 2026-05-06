@@ -36,14 +36,21 @@ A comprehensive Python-based application for managing student records and genera
 
 ## Project Structure
 
-Student_Management_System/
-├── main.py              # Main entrypoint for GUI application
-├── gui.py               # Tkinter graphical interface
-├── student.py           # Student class definition
-├── database.py          # SQLite database operations and persistence
-├── reports.py           # Report generation functionality
-├── students.db          # Local SQLite data file (created on first run)
-└── README.md           # Project documentation
+Student_Management_System\
+
+├── main.py              # Main entrypoint for GUI application\
+
+├── gui.py               # Tkinter graphical interface\
+
+├── student.py           # Student class definition\
+
+├── database.py          # SQLite database operations and persistence\
+
+├── reports.py           # Report generation functionality\
+
+├── students.db          # Local SQLite data file (created on first run)\
+
+└── README.md           # Project documentation\
 
 
 ## Installation and Usage
